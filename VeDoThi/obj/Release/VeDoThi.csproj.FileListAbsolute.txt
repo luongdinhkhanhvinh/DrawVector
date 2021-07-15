@@ -1,0 +1,10 @@
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\bin\Release\VeDoThi.exe
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\bin\Release\VeDoThi.pdb
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\obj\Release\VeDoThi.csprojAssemblyReference.cache
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\obj\Release\VeDoThi.frmAbout.resources
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\obj\Release\VeDoThi.frmMain.resources
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\obj\Release\VeDoThi.Properties.Resources.resources
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\obj\Release\VeDoThi.csproj.GenerateResource.cache
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\obj\Release\VeDoThi.csproj.CoreCompileInputs.cache
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\obj\Release\VeDoThi.exe
+E:\lập trình c#\Tổng hợp project C#\Tổng hợp project C#\vẽ đồ thị C#\VeDoThi\VeDoThi\obj\Release\VeDoThi.pdb
